@@ -1,0 +1,6 @@
+a = float(input())
+b = float(input())
+print('Сумма:', a + b)
+print('Разность:', a - b)
+print('Произведение:', a * b)
+print('Частное:', a / b)
