@@ -1,0 +1,5 @@
+monitor = int(input())
+syst = int(input())
+value = int(input())
+print((monitor + syst) * 3)
+print((monitor + syst) * value)
