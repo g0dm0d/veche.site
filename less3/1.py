@@ -1,4 +1,3 @@
-import math
 x = int(input())
 y = int(input())
-print(int(pow(x,2)+pow(y,2)))
+print(int(x ** 2 + y ** 2))
