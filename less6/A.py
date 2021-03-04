@@ -1,6 +1,5 @@
 money = 5000
-a = int(input())
-while a > 0:
-	money = round(money + 5000 * 0.04 / 12)
-	a -= 1
-print(money)
+month = int(input())
+for i in range (month):
+	money = money + (money * 0.04 / 12)
+print(round(money))
