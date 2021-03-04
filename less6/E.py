@@ -1,4 +1,4 @@
-a = int(input()[-1::-1])
+a = int(input())
 b = int(input())
 z = 0
 if a < 10 ** 9:
