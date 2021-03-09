@@ -10,3 +10,5 @@
 * [less5 ответы](/less5), [(ссылка на тест)](https://contest.yandex.ru/contest/25311/enter)
 
 * [less6 ответы](/less6), [(ссылка на тест)](https://contest.yandex.ru/contest/25515/enter)
+
+* [less7 ответы](/less7), [(ссылка на тест)](https://contest.yandex.ru/contest/25693/enter/)
